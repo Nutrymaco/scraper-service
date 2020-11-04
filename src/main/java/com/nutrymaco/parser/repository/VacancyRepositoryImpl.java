@@ -2,10 +2,8 @@ package com.nutrymaco.parser.repository;
 
 import com.nutrymaco.parser.config.DBConfiguration;
 import com.nutrymaco.parser.model.tables.pojos.Vacancy;
-import com.nutrymaco.parser.model.tables.records.VacancyRecord;
 import org.jooq.DSLContext;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 

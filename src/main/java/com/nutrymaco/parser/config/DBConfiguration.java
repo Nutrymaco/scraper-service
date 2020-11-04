@@ -16,7 +16,7 @@ public class DBConfiguration {
     @Bean
     public DataSource dataSource() {
         PGSimpleDataSource ds = new PGSimpleDataSource();
-        ds.setServerName("localhost");
+        ds.setServerName("89.223.94.132");
         ds.setDatabaseName("postgres");
         ds.setCurrentSchema("parser_service");
         ds.setUser("nutrymaco");

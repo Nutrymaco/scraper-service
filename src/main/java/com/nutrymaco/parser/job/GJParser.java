@@ -10,14 +10,10 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import java.io.IOException;
-import java.sql.Array;
-import java.time.OffsetDateTime;
 import java.sql.Date;
-import java.util.Arrays;
-import java.util.LinkedList;
+import java.time.OffsetDateTime;
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
-import java.util.concurrent.SynchronousQueue;
 
 import static com.nutrymaco.parser.util.DateUtil.getNumberOfMonth;
 
@@ -135,7 +131,7 @@ public class GJParser {
             final String name = vdoc.select(NAME_SELECTOR).text();
             final String city = vdoc.select(CITY_SELECTOR).text();
             final String companyName = vdoc.select(COMPANY_NAME_SELECTOR).text();
-            final String description = vdoc.select(DESCRIPTION_SELECTOR).text();
+            final String description = vdoc.select(DESCRIPTION_SELECTOR).text().replace("Описание вакансии ", "");
             final String[] dateString = vdoc.select(DATE_SELECTOR).text().split(" ");
             final Date created = Date.valueOf(String.format("%d-%d-%d",
                     OffsetDateTime.now().getYear(),
