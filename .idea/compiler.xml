@@ -9,5 +9,18 @@
         <module name="parser-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parser-service-application" target="1.8" />
+      <module name="parser-service-db" target="9" />
+      <module name="test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="parser-service" options="" />
+      <module name="parser-service-application" options="-parameters" />
+      <module name="parser-service-db" options="" />
+      <module name="test" options="" />
+    </option>
   </component>
 </project>
