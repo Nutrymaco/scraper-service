@@ -22,7 +22,7 @@ import java.util.concurrent.SynchronousQueue;
 
 import static com.nutrymaco.parser.model.Tables.VACANCY;
 
-public class Main {
+public class Test {
     public static void main(String[] args) throws IOException, InterruptedException {
         GJParser parser = new GJParser(24*3600);
         parser.start();
