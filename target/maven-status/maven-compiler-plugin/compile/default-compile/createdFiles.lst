@@ -3,7 +3,6 @@ com/nutrymaco/parser/model/tables/pojos/Vacancy.class
 com/nutrymaco/parser/model/tables/records/Vacancy_2020_11Record.class
 com/nutrymaco/parser/model/tables/pojos/Vacancy_2020_10.class
 com/nutrymaco/parser/model/Keys.class
-Test.class
 com/nutrymaco/parser/model/Keys$Identities0.class
 com/nutrymaco/parser/model/tables/Vacancy_2020_11.class
 com/nutrymaco/parser/model/tables/records/Vacancy_2020_12Record.class
