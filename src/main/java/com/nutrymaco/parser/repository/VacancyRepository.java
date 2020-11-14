@@ -9,8 +9,6 @@ public interface VacancyRepository {
 
     void save(Vacancy vacancy);
 
-    boolean exists(Vacancy vacancy);
-
     Optional<Vacancy> findFirstByNameAndCompanyAndCity(String name, String company, String city);
 
 }

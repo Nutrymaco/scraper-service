@@ -1,6 +1,9 @@
+#! /usr/bin/env bash
+
 SERVICE_NAME=Scraper_Service
-#PATH_TO_JAR=
+PATH_TO_JAR=/Users/smykovefim/Documents/MyProjects/Java/parser-service/target/parser-service-1.0-SNAPSHOT-jar-with-dependencies.jar
 PID_PATH_NAME=/tmp/Scraper_Service-pid
+
 case $1 in
 start)
        echo "Starting $SERVICE_NAME ..."

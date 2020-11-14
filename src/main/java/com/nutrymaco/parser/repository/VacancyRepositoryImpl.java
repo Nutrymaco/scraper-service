@@ -22,11 +22,6 @@ public class VacancyRepositoryImpl implements VacancyRepository {
     }
 
     @Override
-    public boolean exists(Vacancy vacancy) {
-        return false;
-    }
-
-    @Override
     public Optional<Vacancy> findFirstByNameAndCompanyAndCity(String name, String company, String city) {
         List<Vacancy> vacancyList = dsl.select()
                 .from(VACANCY)

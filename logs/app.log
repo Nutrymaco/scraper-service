@@ -1,0 +1,63 @@
+2020-11-14 10:22:53,726 INFO com.nutrymaco.parser.job.GJParser [main] all threads start work
+2020-11-14 10:22:55,052 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 1 page
+2020-11-14 10:22:57,690 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Unity Developer with city simulation (or similar) experience
+2020-11-14 10:22:58,981 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Data Scientist / Mathematician
+2020-11-14 10:23:00,823 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Представитель для развития интернет-магазина
+2020-11-14 10:23:00,896 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 2 page
+2020-11-14 10:23:02,993 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Райтер-аналитик
+2020-11-14 10:23:05,219 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Full-stack разработчик, Ярославль (гибкая удаленка)
+2020-11-14 10:23:06,956 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 3 page
+2020-11-14 10:23:06,991 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Team lead Backend (Python)
+2020-11-14 10:23:09,133 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Product manager
+2020-11-14 10:23:10,952 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Front-end Developer (TypeScript + React)
+2020-11-14 10:23:12,838 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=DevOps
+2020-11-14 10:23:12,895 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 4 page
+2020-11-14 10:23:14,674 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Middle / Senior C# разработчик (.Net / .Net Core)
+2020-11-14 10:23:16,400 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior React native разработчик удаленно
+2020-11-14 10:23:18,173 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Product Development Manager (Analytics)
+2020-11-14 10:23:18,936 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 5 page
+2020-11-14 10:23:20,198 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=SENIOR GOLANG DEVELOPER
+2020-11-14 10:23:22,023 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Front-end developer
+2020-11-14 10:23:23,902 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Frontend-разработчик (Pixi+React)
+2020-11-14 10:23:24,991 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 6 page
+2020-11-14 10:23:25,715 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Backend-разработчик (Typescript)
+2020-11-14 10:23:27,482 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Middle Front-End/React Developer
+2020-11-14 10:23:29,665 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Team Lead
+2020-11-14 10:23:31,105 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 7 page
+2020-11-14 10:23:31,673 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=FRONT-END/ANGULAR DEVELOPER
+2020-11-14 10:23:33,957 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Junior/middle media manager
+2020-11-14 10:23:36,153 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Recruiter
+2020-11-14 10:23:37,251 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 8 page
+2020-11-14 10:23:38,163 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Full Stack Ruby Developer
+2020-11-14 10:23:39,828 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=PHP-разработчик
+2020-11-14 10:23:41,714 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Golang-разработчик
+2020-11-14 10:23:43,196 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 9 page
+2020-11-14 10:23:43,922 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Менеджер продукта в Турбо
+2020-11-14 10:23:45,854 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Менеджер продукта в Единое избранное/отложенное
+2020-11-14 10:23:48,088 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Full-stack developer (React Native + Ruby on Rails)
+2020-11-14 10:23:49,325 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 10 page
+2020-11-14 10:23:50,357 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Менеджер по развитию продаж
+2020-11-14 10:23:52,505 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Java Developer
+2020-11-14 10:23:54,348 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Web-аналитик
+2020-11-14 10:23:55,486 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 11 page
+2020-11-14 10:23:56,415 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Data Engineer (Инженер данных)
+2020-11-14 10:23:58,741 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Java Developer
+2020-11-14 10:24:00,673 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior C++ Developer
+2020-11-14 10:24:01,615 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 12 page
+2020-11-14 10:24:02,897 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Business Analyst/System Analyst
+2020-11-14 10:24:04,707 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Бизнес-аналитик
+2020-11-14 10:24:06,590 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Инженер технической поддержки
+2020-11-14 10:24:07,778 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 13 page
+2020-11-14 10:24:08,413 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Android Developer
+2020-11-14 10:24:10,293 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Java Developer (GameDev)
+2020-11-14 10:24:12,077 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Backend Developer
+2020-11-14 10:24:13,981 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=QA engineer
+2020-11-14 10:24:14,023 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 14 page
+2020-11-14 10:24:16,067 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Директор продуктового портфеля
+2020-11-14 10:24:17,935 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Руководитель ИТ проектов
+2020-11-14 11:25:51,131 INFO com.nutrymaco.parser.job.GJParser [main] all threads start work
+2020-11-14 11:25:52,714 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 1 page
+2020-11-14 11:25:54,891 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Unity Developer with city simulation (or similar) experience
+2020-11-14 11:25:56,697 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Senior Data Scientist / Mathematician
+2020-11-14 11:25:59,453 INFO com.nutrymaco.parser.job.GJParser [Thread-3] save vacancy with name=Представитель для развития интернет-магазина
+2020-11-14 11:25:59,726 INFO com.nutrymaco.parser.job.GJParser [Thread-0] parsed 2 page

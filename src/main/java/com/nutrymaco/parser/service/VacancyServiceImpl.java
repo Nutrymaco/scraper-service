@@ -10,17 +10,6 @@ public class VacancyServiceImpl implements VacancyService {
 
     VacancyRepository vacancyRepository = new VacancyRepositoryImpl();
 
-    private static VacancyService instance = null;
-
-    private VacancyServiceImpl() {}
-
-    public static VacancyService getInstance() {
-        if (instance == null) {
-            instance = new VacancyServiceImpl();
-        }
-        return instance;
-    }
-
     @Override
     public boolean save(Vacancy vacancy) {
         Optional<Vacancy> saved = vacancyRepository.findFirstByNameAndCompanyAndCity(

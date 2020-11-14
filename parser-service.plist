@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.nutrymaco</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/java</string>
+        <string>-jar</string>
+        <string>/Users/smykovefim/Documents/MyProjects/Java/parser-service/target/parser-service-1.0-SNAPSHOT-jar-with-dependencies.jar</string>
+    </array>
+    <key>OnDemand</key>
+    <true/>
+</dict>
+</plist>
